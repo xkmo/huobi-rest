@@ -1,0 +1,31 @@
+{
+  "name": "huobi-rest",
+  "version": "0.1.0",
+  "description": "Huobi REST API wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xkmo/huobi-rest.git"
+  },
+  "keywords": [
+    "huobi",
+    "btc",
+    "bitcoin"
+  ],
+  "author": "xkmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xkmo/huobi-rest/issues"
+  },
+  "homepage": "https://github.com/xkmo/huobi-rest",
+  "dependencies": {
+    "MD5": "^1.2.1",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {
+    "should": "4.3.1"
+  }
+}

@@ -1,4 +1,9 @@
 huobi-rest
 ==========
 
-Huobi Rest API wrapper.
+Huobi REST API wrapper.
+
+# Todo
+
+- support trade_password and trade_id parameter in trade
+- add public API
